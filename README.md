@@ -31,3 +31,7 @@ In applications like object recognition, SIFT keypoints and their descriptors ar
 SIFT detectors have several advantages, including their robustness to changes in scale, rotation, and lighting conditions. They are also capable of handling partial occlusion. However, SIFT has some limitations, including computational complexity and the need for substantial memory to store feature descriptors.
 
 Over time, SIFT has been widely used, but it has also been extended and improved upon by other feature detection and description methods, such as SURF (Speeded-Up Robust Features) and ORB (Oriented FAST and Rotated BRIEF). These newer techniques address some of the computational limitations of SIFT while maintaining robustness to image transformations.
+
+Further Reading reference: 
+[OpenCV](https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html)
+[ThePythonCode](https://thepythoncode.com/article/sift-feature-extraction-using-opencv-in-python?utm_content=cmp-true)
